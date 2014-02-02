@@ -1,0 +1,9 @@
+{
+  "name": "jquery-timeago",
+  "description": "Meteor packaging of jquery-timeago",
+  "homepage": "https://github.com/jfhamlin/meteor-jquery-timeago",
+  "author": "James Hamlin <jfhamlin@gmail.com>",
+  "version": "1.3.1",
+  "git": "https://github.com/jfhamlin/meteor-jquery-timeago.git",
+  "packages": {}
+}
