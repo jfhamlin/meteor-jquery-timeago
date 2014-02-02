@@ -1,4 +1,4 @@
-jquery-timeago
+jquery-timeago2
 ============
 
 Meteor packaging of jquery-timeago 1.3.1
