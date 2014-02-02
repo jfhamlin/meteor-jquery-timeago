@@ -1,6 +1,5 @@
 Package.describe({
-  summary: 'A jQuery plugin that makes it easy to support automatically updating
-fuzzy timestamps'
+  summary: 'A jQuery plugin that makes it easy to support automatically-updating fuzzy timestamps'
 });
 
 Package.on_use(function (api, where) {
